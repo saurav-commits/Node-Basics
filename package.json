@@ -1,0 +1,18 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurav kumar",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "node-modules": "^1.0.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
